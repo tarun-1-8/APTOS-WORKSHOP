@@ -46,3 +46,11 @@ By leveraging blockchain technology, we envision a future where:
 - **IPFS Storage**: Implement distributed storage for detailed credential metadata
 - **Zero-Knowledge Proofs**: Add privacy-preserving verification mechanisms
 - **Analytics Dashboard**: Provide insights on skill trends and market demands
+- 
+TRANSACTION HASH: 0x8917412a4d5b281cae8e6009cfd0dad2744c635db435d26ba1b9a694d6ef0fc1
+
+
+
+
+<img width="1569" height="639" alt="Screenshot 2025-09-18 143649" src="https://github.com/user-attachments/assets/a50b25af-298f-4e3d-93fb-cdfa80cd930e" />
+
